@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 350141dff60deb2219a642f68a8121ab90a96207
 Algoritmo "Exercicio 6"
 // Disciplina  : Desenvolvimento de Sistemas
 // Professor   : Thiago
@@ -50,6 +53,7 @@ Inicio
    escreval("Cod digitado ", cod)
    escreval("Preco de Etiqueta: ", precoEtiqueta)
    escreval("Preco Final: ", precoFinal)
+<<<<<<< HEAD
 =======
 Algoritmo "Exercicio 6"
 // Disciplina  : Desenvolvimento de Sistemas
@@ -103,4 +107,6 @@ Inicio
    escreval("Preco de Etiqueta: ", precoEtiqueta)
    escreval("Preco Final: ", precoFinal)
 >>>>>>> 6f45037e2cbb17637e6ce9339fd45e05320baf1c
+=======
+>>>>>>> 350141dff60deb2219a642f68a8121ab90a96207
 Fimalgoritmo

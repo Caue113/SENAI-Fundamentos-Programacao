@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 350141dff60deb2219a642f68a8121ab90a96207
 Algoritmo "Exercicio 2"
 // Disciplina  : Desenvolvimento de Sistemas
 // Professor   : Thiago
@@ -45,6 +48,7 @@ Inicio
    escreval("Estado Civil: ", estadoCivil)
    escreval("Tempo no estado civil 'casada' (se houver): ", tempoCasada)
    
+<<<<<<< HEAD
 =======
 Algoritmo "Exercicio 2"
 // Disciplina  : Desenvolvimento de Sistemas
@@ -93,4 +97,6 @@ Inicio
    escreval("Tempo no estado civil 'casada' (se houver): ", tempoCasada)
    
 >>>>>>> 6f45037e2cbb17637e6ce9339fd45e05320baf1c
+=======
+>>>>>>> 350141dff60deb2219a642f68a8121ab90a96207
 Fimalgoritmo

@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 350141dff60deb2219a642f68a8121ab90a96207
 Algoritmo "Exercicio 5"
 // Disciplina  : Desenvolvimento de Sistemas
 // Professor   : Thiago
@@ -32,6 +35,7 @@ Inicio
    escreval
    escreval("Valor inicial: ", inputNum)
    escreval("Valor final: ", result)
+<<<<<<< HEAD
 =======
 Algoritmo "Exercicio 5"
 // Disciplina  : Desenvolvimento de Sistemas
@@ -67,4 +71,6 @@ Inicio
    escreval("Valor inicial: ", inputNum)
    escreval("Valor final: ", result)
 >>>>>>> 6f45037e2cbb17637e6ce9339fd45e05320baf1c
+=======
+>>>>>>> 350141dff60deb2219a642f68a8121ab90a96207
 Fimalgoritmo

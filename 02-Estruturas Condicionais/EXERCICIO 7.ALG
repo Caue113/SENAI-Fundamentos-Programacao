@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 350141dff60deb2219a642f68a8121ab90a96207
 Algoritmo "Exercicio 7"
 // Disciplina  : Desenvolvimento de Sistemas
 // Professor   : Thiago
@@ -81,6 +84,7 @@ Inicio
       escreval("Condição do aluno: APROVADO")
    fimse
 
+<<<<<<< HEAD
 =======
 Algoritmo "Exercicio 7"
 // Disciplina  : Desenvolvimento de Sistemas
@@ -165,4 +169,6 @@ Inicio
    fimse
 
 >>>>>>> 6f45037e2cbb17637e6ce9339fd45e05320baf1c
+=======
+>>>>>>> 350141dff60deb2219a642f68a8121ab90a96207
 Fimalgoritmo
