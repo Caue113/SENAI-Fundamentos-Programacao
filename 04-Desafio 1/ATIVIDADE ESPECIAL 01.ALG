@@ -69,178 +69,99 @@ Inicio
 
    //Finalizado inserções
    
+   
    //Iniciar organização em ordem crescente dos valores.
-   
-   //Primeira dupla de comparação A-B
-   se ((paisPonto1 < paisPonto2) e (paisPonto1 < paisPonto3)) entao
-      auxC := paisNome1
-      lugar1 := paisNome2
-      lugar2 := paisNome3
-      lugar3 := auxC
-   senao
-      se (paisPonto1 < paisPonto2) entao
-         auxC := paisNome1
-         lugar1 := paisNome2
-         lugar2 := auxC
-       fimse
-   fimse
-   
-   
-   //Segunda dupla de comparação B-C
-   se ((paisPonto2 < paisPonto1) e (paisPonto2 < paisPonto3)) entao
+   //Primeira dupla de comparação A,B,C --> A,C,B
+    se (paisPonto2 < paisPonto3) entao
+
+      //Ordenando posicoes paises
       auxC := paisNome2
-      lugar1 := paisNome1
-      lugar2 := paisNome3
-      lugar3 := auxC
-   senao
-      se(paisPonto2 < paisPonto1) entao
-         auxC := paisNome2
-         lugar1 := paisNome1
-         lugar2 := auxC
-         lugar3 := paisNome3
-      fimse
-   fimse
-
-   escreval("Exibindo resultados")
-   escreval("1. Lugar - ", lugar1)
-   escreval("2. Lugar - ", lugar2)
-   escreval("3. Lugar - ", lugar3)
-
-
-Fimalgoritmo
-
-
-
-
-
-
-//TEMPORARY CODE
-//
-//
-//
-//Junk code. Need refactoring to work
-
-
-//A,B,C --> B,C,A    123-231
-   se ((paisPonto1 < paisPonto2) e (paisPonto1 < paisPonto3)) entao
-      //Corrigindo nomes
-      auxC := lugar1
-
-      lugar1 := paisNome2
       lugar2 := paisNome3
       lugar3 := auxC
 
-      //Corrigindo medalhas de OURO, PRATA, BRONZE
-      auxI := paisOuro1
-      paisOuro1 := paisOuro2
+      //Ordenando Pontos
+      auxI := paisPonto2
+      paisPonto2 := paisPonto3
+      paisPonto3 := auxI
+      
+      //Ordenando medalhas
+      auxI := paisOuro2
       paisOuro2 := paisOuro3
       paisOuro3 := auxI
-
-      auxI := paisPrata1
-      paisPrata1 := paisPrata2
+      
+      auxI := paisPrata2
       paisPrata2 := paisPrata3
       paisPrata3 := auxI
+      
+      auxI := paisBronze2
+      paisBronze2 := paisBronze3
+      paisBronze3 := auxI
+      
+    fimse
+    
+    //Segunda dupla de comparacao A,C,B --> C,A,B  *OU*  A,B,C --> B,A,C
+    se (paisPonto1 < paisPonto2) entao
+
+      //Ordenando posicoes paises
+      auxC := lugar1
+      lugar1 := lugar2
+      lugar2 := auxC
+
+      //Ordenando Pontos
+      auxI := paisPonto1
+      paisPonto1 := paisPonto2
+      paisPonto2 := auxI
+
+      //Ordenando Medalhas
+      auxI := paisOuro1
+      paisOuro1 := paisOuro2
+      paisOuro2 := auxI
+      
+      auxI := paisPrata1
+      paisPrata1 := paisPrata2
+      paisPrata2 := auxI
 
       auxI := paisBronze1
       paisBronze1 := paisBronze2
-      paisBronze2 := paisBronze3
-      paisBronze3 := auxI
+      paisBronze2 := auxI
+    fimse
+    
+    
+    //Comparacao 3
+    se (paisPonto2 < paisPonto3) entao
 
-      //Corrigindo pontuacao
-      auxI := paisPonto1
-      paisPonto1 := paisPonto2
+      //Ordenando posicoes paises
+      auxC := lugar2
+      lugar2 := lugar3
+      lugar3 := auxC
+
+      //Ordenando Pontos
+      auxI := paisPonto2
       paisPonto2 := paisPonto3
       paisPonto3 := auxI
-   senao
 
-      //A,B,C --> B,A,C.  123-213
-      se((paisPonto1 < paisPonto2) e (paisPonto1 > paisPonto3)) entao
-         auxC := lugar1
+      //Ordenando Pontos
+      auxI := paisOuro2
+      paisOuro2 := paisOuro3
+      paisOuro3 := auxI
+      
+      auxI := paisPrata2
+      paisPrata2 := paisPrata3
+      paisPrata3 := auxI
 
-         lugar1 := paisNome2
-         lugar2 := auxC
-
-         //Corrigindo medalhas de OURO, PRATA, BRONZE
-         auxI := paisOuro1
-         paisOuro1 := paisOuro2
-         paisOuro2 := auxI
-
-         auxI := paisPrata1
-         paisPrata1 := paisPrata2
-         paisPrata2 := auxI
-
-         auxI := paisBronze1
-         paisBronze1 := paisBronze2
-         paisBronze2 := auxI
-
-         //Corrigindo pontuacao
-         auxI := paisPonto1
-         paisPonto1 := paisPonto2
-         paisPonto2 := auxI
-
-      senao
-         //A,B,C --> A,C,B    123-132
-         se((paisPonto2 < paisPonto1) e (paisPonto2 > paisPonto3))entao
-            //Corrigindo nomes
-            auxC := lugar2
-            lugar2 := paisNome3
-            lugar3 := auxC
-
-            //Corrigindo medalhas de OURO, PRATA, BRONZE
-            auxI := paisOuro2
-            paisOuro2 := paisOuro3
-            paisOuro3 := auxI
-
-            auxI := paisPrata2
-            paisPrata2 := paisPrata3
-            paisPrata3 := auxI
-
-            auxI := paisBronze2
-            paisBronze2 := paisBronze3
-            paisBronze3 := auxI
-
-            //Corrigindo pontuacao
-            auxI := paisPonto2
-            paisPonto2 := paisPonto3
-            paisPonto3 := auxI
-
-         senao
-            // A,B,C --> C,B,A   123-321
-            se((paisPonto1 < paisPonto3) e (paisPonto2 < paisPonto3))entao
-            //Corrigindo nomes
-               auxC := lugar1
-
-               lugar1 := paisNome3
-               lugar3 := auxC
-
-               //Corrigindo medalhas de OURO, PRATA, BRONZE
-               auxI := paisOuro1
-               paisOuro1 := paisOuro3
-               paisOuro3 := auxI
-
-               auxI := paisPrata1
-               paisPrata1 := paisPrata3
-               paisPrata3 := auxI
-
-               auxI := paisBronze1
-               paisBronze1 := paisBronze3
-               paisBronze3 := auxI
-
-               //Corrigindo pontuacao
-               auxI := paisPonto1
-               paisPonto1 := paisPonto3
-               paisPonto3 := auxI
-
-            fimse
-         fimse
-      fimse
-   fimse
+      auxI := paisBronze2
+      paisBronze2 := paisBronze3
+      paisBronze3 := auxI
+    fimse
    
    
-escreval("Mostrando Resultados Finais")
-escreval
-escreval("|   País   |         Medalhas      | Pontuação |")
-escreval("|          | Ouro | Prata | Bronze |           |")
-escreval("| ", lugar1:10, paisOuro1:6, paisPrata1:8, paisBronze1:9, paisPonto1:10)
-escreval("| ", lugar2:10, paisOuro2:6, paisPrata2:8, paisBronze2:9, paisPonto2:10)
-escreval("| ", lugar3:10, paisOuro3:6, paisPrata3:8, paisBronze3:9, paisPonto3:10)
+   
+   
+   escreval("|                       TABELA DE RESULTADOS               |")
+   escreval("|  POSIÇÃO  |   PAÍS   | OURO | PRATA | BRONZE | PONTUAÇÃO |")
+   escreval("| 1. Lugar  | ", lugar1:9,"| ", paisOuro1:5,"| ", paisPrata1:6,"| ", paisBronze1:7,"| ", paisPonto1:10,"|")
+   escreval("| 2. Lugar  | ", lugar2:9,"| ", paisOuro2:5,"| ", paisPrata2:6,"| ", paisBronze2:7,"| ", paisPonto2:10,"|")
+   escreval("| 3. Lugar  | ", lugar3:9,"| ", paisOuro3:5,"| ", paisPrata3:6,"| ", paisBronze3:7,"| ", paisPonto3:10,"|")
+
+
+Fimalgoritmo
