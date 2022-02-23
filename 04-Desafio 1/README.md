@@ -411,6 +411,120 @@ fimpara
 
 <h3> Enunciado </h3>
   
-<p align="center"></p>
-    
+<p align="center"> "Elabore um menu que permita o usuário votar em um dos quatro político, voto branco ou nulo. Após, calcular a porcentagem de cada voto. Use 0 como finalizador."</p>
+
 <h3> Resolvendo o Problema </h3>
+
+<p> O problema envolve repetitivas entradas de usuário até que determinada condição encerre o processo para finalmente mostrarmos os resultados. Vamos planejar possíveis variáveis: </p>
+
+<ul>
+  <li>Entrada usuário (codigo) - [inteiro]</li>
+  <li>Voto Politico 1 (v1) - [inteiro]</li>
+  <li>Voto Politico 2 (v2) - [inteiro]</li>
+  <li>Voto Politico 3 (v3) - [inteiro]</li>
+  <li>Voto Politico 4 (v4) - [inteiro]</li>
+  <li>Voto Branco (vb) - [inteiro]</li>
+  <li>Voto Nulo (vn) - [inteiro]</li>
+  <li>Total de Votos (total) - [inteiro]</li>
+</ul>  
+<p> Não é obrigatório neste exercício elaborar variáveis para as porcentagens. Porém, é uma boa prática armazenar valores computados para evitar reprocessamentos desnecessários em outros algorítmos </p>
+
+
+<ul>
+  <li>Porcentagem Politico 1 (porV1) - [inteiro]</li>
+  <li>Porcentagem Politico 2 (porV2) - [inteiro]</li>
+  <li>Porcentagem Politico 3 (porV3) - [inteiro]</li>
+  <li>Porcentagem Politico 4 (porV4) - [inteiro]</li>
+  <li>Porcentagem Nulo (porVn) - [inteiro]</li>
+  <li>Porcentagem Branco (porVb) - [inteiro]</li>
+</ul>
+
+<p> Inicialmente, devemos criar uma estrutura repetitiva para constatemente pedirmos entrada do usuário. O repita SEMPRE pedirá uma vez a entrada sem checar sua condição, útil para nosso caso em específico: </p>
+
+<pre><code>
+//Loop para repetitivas entradas
+repita
+  //Menu
+  
+  //Checar codigo do usuário
+
+ate codigo = 0
+
+//Mostrar valores
+</code></pre>
+
+<p> Com o loop feito, podemos incluir uma interface visual e a entrada de valores do usuário </p>
+
+<pre><code>
+//Loop para repetitivas entradas
+repita
+  //Menu
+  escreval("Escolha uma opção abaixo")
+  escreval
+  escreval("1 - Votar em Aldair    ")
+  escreval("2 - Votar em Jucélia   ")
+  escreval("3 - Votar em Jailson   ")
+  escreval("4 - Votar em Alexandre ")
+  escreval("5 - Voto Nulo")
+  escreval("6 - Voto em Branco")
+  escreval
+  
+  //Checar codigo do usuário
+  escreva("Código: ")
+  leia(codigo)
+  
+ate codigo = 0
+
+//Mostrar valores
+</code></pre>
+
+<p> Nesse momento, precisamos checar qual valor digitado pelo usuário. Validar se condiz com nossas opções e corrigir qualquer erro.
+<p> Não só isso, mas devemos criar um somatório dos votos caso seu código seja digitado </p>
+
+<pre><code>
+//Loop para repetitivas entradas
+repita
+  //Menu
+  escreval("Escolha uma opção abaixo")
+  escreval
+  escreval("1 - Votar em Aldair    ")
+  escreval("2 - Votar em Jucélia   ")
+  escreval("3 - Votar em Jailson   ")
+  escreval("4 - Votar em Alexandre ")
+  escreval("5 - Voto Nulo")
+  escreval("6 - Voto em Branco")
+  escreval
+  
+  //Checar codigo do usuário
+  escreva("Código: ")
+  leia(codigo)
+  
+  escolha codigo
+      caso 1
+         votosAldair := votosAldair + 1
+      caso 2
+         votosJucelia := votosJucelia + 1
+      caso 3
+         votosJailson := votosJailson + 1
+      caso 4
+         votosAlexandre := votosAlexandre + 1
+      caso 5
+         votosNulo := votosNulo + 1
+      caso 6
+         votosBranco := votosBranco + 1
+      caso 0
+         escreval
+         escreval("Encerrando leitura de votações. Tecle ENTER para prosseguir")
+         leia(ignoreMe)
+      outrocaso
+        escreval("Código inválido! Digite um valor dentre os citados.")
+       leia(ignoreMe)
+
+   fimescolha
+  
+ate codigo = 0
+
+//Mostrar valores
+</code></pre>
+
+<p></p>
