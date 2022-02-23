@@ -235,9 +235,135 @@ fimse
 
 <h3> Enunciado </h3>
   
-<p align="center"></p>
-    
+<p align="center"> " Faça um algoritmo que faça o usuário selecionar algumas características e, por fim, mostrar o animal que confere as características de acordo com o diagrama "</p>
+ 
+<img alt="Diagrama-Animais" src=""> 
+ 
 <h3> Resolvendo o Problema </h3>
+
+<p> A resolução desse desafio será baseada em estruturas condionais compostas entrelaçadas para criarmos as perguntas. Todas devem ser entrelaçadas pois só poderá haver 1 única resposta.</p>
+<p> Faremos apenas a primeira estrutura dos mamíferos como exemplo </p>
+<p> <b>AVISO: Mesmo que a estrutura seja simples de entender, NÃO é recomendável utilizar-la, uma vez que haverão ferramentas mais a frente que automatizam e facilitam o trabalho e inserção de novos elementos</b> </p>
+
+<p> Antes, vamos criar a estrutura básica para que podemos escalar as perguntas sequentes </p>
+
+<pre><code>
+escreval("O seu animal é... um mamífero?")
+leia(input)
+
+se input = "sim" entao //Mamíferos
+
+  //Perguntas sequentes dos Mamíferos
+  
+senao //Não Mamifero 
+
+  //Outros Animais
+  
+fimse
+</code></pre>
+      
+<p> Com isso, podemos questionar os níveis seguintes de característas sobre os mamíferos até chegar num determinado animal. Observe a estrutura completa dos mamíferos e bípedes:  </p> 
+
+<pre><code>
+escreval("O seu animal é... um mamífero?")
+leia(input)
+
+se input = "sim" entao //Mamíferos
+  escreval
+  escreval("O seu mamífero é... um quadrúpede?")
+  leia(input)
+      
+  se input = "sim" entao    //Quadrúpedes
+    escreval
+    escreval("O seu mamífero quadrúpede é... um carnívoro?")
+    leia(input)
+    
+    se input = "sim" entao  //Carnivoro
+      escreval
+      escreval("O seu animal é um Leão!")
+    senao                   //Herbivoro
+      escreval
+      escreval("Então, seu animal é um herbívoro.")
+      escreval("O seu animal é um Cavalo!")
+    fimse
+    
+  senao  //Não quadrúpede --> Bípede
+  
+    //Outras características
+    
+  fimse
+  
+senao //Não Mamifero --> Aves
+
+  //Outros Animais
+  
+fimse
+</code></pre>
+
+<p> Prosseguindo com cada característica, a estrutura final das perguntas sobre os dos mamíferos se assemelhará a isso: </p>
+
+<pre><code>
+escreval("O seu animal é... um mamífero?")
+leia(input)
+
+se input = "sim" entao //Mamíferos
+  escreval
+  escreval("O seu mamífero é... um quadrúpede?")
+  leia(input)
+      
+  se input = "sim" entao    //Quadrúpedes
+    escreval
+    escreval("O seu mamífero quadrúpede é... um carnívoro?")
+    leia(input)
+    
+    se input = "sim" entao
+      escreval
+      escreval("O seu animal é um Leão!")
+    senao
+      escreval
+      escreval("Então, seu animal é um herbívoro.")
+      escreval("O seu animal é um Cavalo!")
+    fimse
+    
+  senao             //Não quadrupede --> Bípede
+    escreval
+    escreval("O seu animal é... um bípede?")
+    leia(input)
+         
+    se input = "sim" entao
+      escreval
+      escreval("O seu mamífero bípede é... um onívoro?")
+      leia(input)
+
+      se input = "sim" entao
+        escreval
+        escreval("O seu animal é um Humano!")
+      senao
+        escreval
+        escreval("Então, seu animal é um frutívoro.")
+        escreval("O seu animal é um Macaco!")
+      fimse       //--Bípede
+            
+    senao    //Nao bípede --> voador
+      escreval
+      escreval("O seu animal é... voador?")
+      leia(input)
+            
+      se input = "sim" entao
+        escreval
+        escreval("O seu animal é um Morcego!")
+      senao //Nao voador --> Aquatico
+        escreval
+        escreval("O seu animal é uma Baleia!")
+      fimse
+    fimse
+  fimse
+      
+      
+senao //Não Mamifero --> Aves
+  //Outros Animais0
+fimse
+</code></pre>
 
 <h2 id="ex3"> EX 3 - Convertendo °F em °C</h2>
 
@@ -257,29 +383,29 @@ fimse
     
 <p> Nesse caso, o loop mais adequado é o para/for, uma vez que possuímos um valor inicial (50) e um final (150). </p>
     
-<pre>
+<pre><code>
 para i de 50 ate 150 faca
   //codigo
 fimpara
-</pre>    
+</code></pre>    
 <p> Com o loop definido, precisamos atualizar o valor de F e depois converter para C utilizando a equação C = 5/9 * (F-32).</p>
 
-<pre>
+<pre><code>
 para i de 50 ate 150 faca <br>
   F := i      //Atualizar valor de F
   C := 5/9 * (F-32) 
 fimpara    
-</pre>
+</code></pre>
     
 <p> Como precisamos construir uma tabela, precisaremos mostrar os valores a cada ciclo após os cálculos. </p>
     
-<pre>
+<pre><code>
 para i de 50 ate 150 faca <br>
   F := i      //Atualizar valor de F
   C := 5/9 * (F-32)
   escreval("Graus F = ", F, " Graus C = ", C)
 fimpara    
-</pre>
+</code></pre>
  
 <h2 id="ex4"> EX 4 - Contando Votos De Vários Usuários</h2>
 
