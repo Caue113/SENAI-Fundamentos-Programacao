@@ -83,7 +83,7 @@ paisPontos1 := ouro1 * 3 + prata1 * 2 + bronze
   
 <pre><code>
 //Comparando os paises B e C.
-se (paisPonto2 < paisPonto3) entao
+se (paisPonto2 &#60 paisPonto3) entao
     
   //Ordenando posicoes paises
   auxC := paisNome2    //auxC permite salvar o valor para ser usado mais tarde
@@ -95,7 +95,7 @@ fimse
 <p>Agora, incluindo todos as propriedades para atualizar dentro da comparação: </p>
    
 <pre><code>    
-se (paisPonto2 < paisPonto3) entao
+se (paisPonto2 &#60 paisPonto3) entao
 
   //Ordenando posicoes paises
   auxC := paisNome2    //auxC permite salvar o valor para ser usado mais tarde
@@ -126,7 +126,7 @@ fimse
 <p>Com a lógica e a estrutura definida, podemos aplicar para as comparações dos países A e B.</p>
   
 <pre><code>
-se (paisPonto1 < paisPonto2) entao
+se (paisPonto1 &#60 paisPonto2) entao
 
   //Ordenando posicoes paises
   auxC := lugar1
@@ -156,7 +156,7 @@ fimse
 <p> E, por fim, devemos fazer novamente uma comparação com os países B e C. O bloco a seguir mostra todas as comparações necessárias: </p>
 
 <pre><code>  
-se (paisPonto2 < paisPonto3) entao
+se (paisPonto2 &#60 paisPonto3) entao
 
   //Ordenando posicoes paises
   auxC := paisNome2    //auxC permite salvar o valor para ser usado mais tarde
@@ -183,7 +183,7 @@ se (paisPonto2 < paisPonto3) entao
   
 fimse
   
-se (paisPonto1 < paisPonto2) entao
+se (paisPonto1 &#60 paisPonto2) entao
 
   //Ordenando posicoes paises
   auxC := lugar1
@@ -209,7 +209,7 @@ se (paisPonto1 < paisPonto2) entao
   paisBronze2 := auxI
 fimse
     
-se (paisPonto2 < paisPonto3) entao
+se (paisPonto2 &#60 paisPonto3) entao
 
   //Ordenando posicoes paises
   auxC := paisNome2    //auxC permite salvar o valor para ser usado mais tarde
