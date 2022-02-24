@@ -5,7 +5,7 @@
 <ul>  
   <li><a href=#intro> Introdução </a></li>  
   <li><a href=#ex1> Ex 1 - Organizando Países Num Pódio Olímpico </a></li>
-  <li><a href=#ex2> Ex 1 - Perguntas e Respostas </a></li> 
+  <li><a href=#ex2> Ex 2 - Perguntas e Respostas </a></li> 
   <li><a href=#ex3> Ex 3 - Convertendo °F em °C </a></li> 
   <li><a href=#ex4> Ex 4 - Contando Votos De Vários Usuários </a></li>
 </ul>
@@ -17,7 +17,7 @@ Esses desafios são exemplos para práticar os conhecimentos dados sobre estrutu
 <br><br/>
 Validações de entrada de usuário não são necessárias se não exigidas, porém é recomendável ir além nesses desafios.
 <br><br/>
-Sempre cheque esse ReadMe para verificar a aproximação ao problema e a lógica utilizada para resolver-la
+Sempre cheque esse ReadMe para verificar a aproximação ao problema e a lógica utilizada para resolver-la.
 </p>
   
 <br/>
@@ -34,7 +34,7 @@ Sempre cheque esse ReadMe para verificar a aproximação ao problema e a lógica
 
 <h3> Enunciado </h3>
   
-<p align="center">"Exigir na entrada nome de 3 países e suas medalhas de ouro, prata e bronze. No final, calcular a pontuação com base nos seguintes pesos" </p>
+<p align="center">"Exigir na entrada nome de 3 países e suas medalhas de ouro, prata e bronze. No final, calcular a pontuação com base nos seguintes pesos." </p>
   
 <ul>
   <li> Medalha de Ouro   - 3 Pontos </li>
@@ -123,7 +123,7 @@ se (paisPonto2 < paisPonto3) entao
 fimse   
 </code></pre>
   
-<p>Com a lógica e a estrutura definida, podemos aplicar para as comparações dos países A e B</p>
+<p>Com a lógica e a estrutura definida, podemos aplicar para as comparações dos países A e B.</p>
   
 <pre><code>
 se (paisPonto1 < paisPonto2) entao
@@ -238,26 +238,28 @@ fimse
 </code></pre>
 
 <p align="right"><a href="#sumario">Voltar ao Sumário</a></p>
- <!--
+
+<!--
  
  EXERCICIO 2
  
- -->   
+ -->
+ 
 <h2 id="ex2"> EX 2 - Perguntas e Respostas </h2>
 
 <h3> Enunciado </h3>
   
-<p align="center"> " Faça um algoritmo que faça o usuário selecionar algumas características e, por fim, mostrar o animal que confere as características de acordo com o diagrama "</p>
+<p align="center"> " Faça um algoritmo que faça o usuário selecionar algumas características e, por fim, mostrar o animal que confere as características de acordo com o diagrama. "</p>
  
 <img alt="Diagrama-Animais" src=""> 
  
 <h3> Resolvendo o Problema </h3>
 
 <p> A resolução desse desafio será baseada em estruturas condionais compostas entrelaçadas para criarmos as perguntas. Todas devem ser entrelaçadas pois só poderá haver 1 única resposta.</p>
-<p> Faremos apenas a primeira estrutura dos mamíferos como exemplo </p>
-<p> <b>AVISO: Mesmo que a estrutura seja simples de entender, NÃO é recomendável utilizar-la, uma vez que haverão ferramentas mais a frente que automatizam e facilitam o trabalho e inserção de novos elementos</b> </p>
+<p> Faremos apenas a primeira estrutura dos mamíferos como exemplo. </p>
+<p> <b>AVISO: Mesmo que a estrutura seja simples de entender, NÃO é recomendável utilizar-la, uma vez que haverão ferramentas mais a frente que automatizam e facilitam o trabalho e inserção de novos elementos.</b> </p>
 
-<p> Antes, vamos criar a estrutura básica para que podemos escalar as perguntas sequentes </p>
+<p> Antes, vamos criar a estrutura básica para que podemos escalar as perguntas sequentes: </p>
 
 <pre><code>
 escreval("O seu animal é... um mamífero?")
@@ -378,17 +380,18 @@ fimse
 </code></pre>
 
 <p align="right"><a href="#sumario">Voltar ao Sumário</a></p>
- <!--
+
+<!--
  
  EXERCICIO 3
  
- -->   
+ --> 
 
 <h2 id="ex3"> EX 3 - Convertendo °F em °C</h2>
 
 <h3> Enunciado </h3>
   
-<p align="center">" Faça uma tabela que converta a temperatura de Fahrenheit (°F) para Celsius (°C) variando de 50 °F até 150°F "</p>
+<p align="center">" Faça uma tabela que converta a temperatura de Fahrenheit (°F) para Celsius (°C) variando de 50 °F até 150°F. "</p>
     
 <h3> Resolvendo o Problema </h3>
   
@@ -427,11 +430,12 @@ fimpara
 </code></pre>
 
 <p align="right"><a href="#sumario">Voltar ao Sumário</a></p>
- <!--
+
+<!--
  
  EXERCICIO 4
  
- -->   
+ --> 
  
 <h2 id="ex4"> EX 4 - Contando Votos De Vários Usuários</h2>
 
@@ -453,7 +457,7 @@ fimpara
   <li>Voto Nulo (vn) - [inteiro]</li>
   <li>Total de Votos (total) - [inteiro]</li>
 </ul>  
-<p> Não é obrigatório neste exercício elaborar variáveis para as porcentagens. Porém, é uma boa prática armazenar valores computados para evitar reprocessamentos desnecessários em outros algorítmos </p>
+<p> Não é obrigatório neste exercício elaborar variáveis para as porcentagens. Porém, é uma boa prática armazenar valores computados para evitar reprocessamentos desnecessários em outros algorítmos. </p>
 
 
 <ul>
@@ -479,7 +483,7 @@ ate codigo = 0
 //Mostrar valores
 </code></pre>
 
-<p> Com o loop feito, podemos incluir uma interface visual e a entrada de valores do usuário </p>
+<p> Com o loop feito, podemos incluir uma interface visual e a entrada de valores do usuário. </p>
 
 <pre><code>
 //Loop para repetitivas entradas
@@ -505,7 +509,7 @@ ate codigo = 0
 </code></pre>
 
 <p> Nesse momento, precisamos checar qual valor digitado pelo usuário. Validar se condiz com nossas opções e corrigir qualquer erro.
-<p> Não só isso, mas devemos criar um somatório dos votos caso seu código seja digitado </p>
+<p> Não só isso, mas devemos criar um somatório dos votos caso seu código seja digitado. </p>
 
 <pre><code>
 //Loop para repetitivas entradas
@@ -584,7 +588,7 @@ senao
 fimse
 </code></pre>
 
-<p> Finalmente, após todo e qualquer computação, podemos disponibilizar os resultados para o usuário </p>
+<p> Finalmente, após todo e qualquer computação, podemos disponibilizar os resultados para o usuário: </p>
 
 <pre><code>
 total := v1 + v2 + v3 + v4 + vb + vn
@@ -604,3 +608,5 @@ senao
    escreval("Votos em Branco|", vb:7,"|", porVb)
 fimse
 </code></pre>
+
+<p align="right"><a href="#sumario">Voltar ao Sumário</a></p>
