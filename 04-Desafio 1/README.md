@@ -1,6 +1,6 @@
 <h1> Desafios -  Explicações </h1>
 
-<h2> Sumário </h2>
+<h2 id="sumario"> Sumário </h2>
 
 <ul>  
   <li><a href=#intro> Introdução </a></li>  
@@ -23,7 +23,13 @@ Sempre cheque esse ReadMe para verificar a aproximação ao problema e a lógica
 <br/>
  
 <p> A execução dos desafios devem ser feitos utilizando APENAS conhecimentos fornecido até o momento. São elas: Estruturas sequenciais, condicionais e repetitivas. </p>
-  
+
+<!--
+ 
+ EXERCICIO 1
+ 
+ -->
+ 
 <h2 id="ex1"> EX 1 - Organizando Países Num Pódio Olímpico</h2>
 
 <h3> Enunciado </h3>
@@ -230,7 +236,13 @@ se (paisPonto2 < paisPonto3) entao
       
 fimse  
 </code></pre>
-    
+
+<p align="right"><a href="#sumario">Voltar ao Sumário</a></p>
+ <!--
+ 
+ EXERCICIO 2
+ 
+ -->   
 <h2 id="ex2"> EX 2 - Perguntas e Respostas </h2>
 
 <h3> Enunciado </h3>
@@ -365,6 +377,13 @@ senao //Não Mamifero --> Aves
 fimse
 </code></pre>
 
+<p align="right"><a href="#sumario">Voltar ao Sumário</a></p>
+ <!--
+ 
+ EXERCICIO 3
+ 
+ -->   
+
 <h2 id="ex3"> EX 3 - Convertendo °F em °C</h2>
 
 <h3> Enunciado </h3>
@@ -406,6 +425,13 @@ para i de 50 ate 150 faca <br>
   escreval("Graus F = ", F, " Graus C = ", C)
 fimpara    
 </code></pre>
+
+<p align="right"><a href="#sumario">Voltar ao Sumário</a></p>
+ <!--
+ 
+ EXERCICIO 4
+ 
+ -->   
  
 <h2 id="ex4"> EX 4 - Contando Votos De Vários Usuários</h2>
 
@@ -501,25 +527,24 @@ repita
   
   escolha codigo
       caso 1
-         votosAldair := votosAldair + 1
+         v1 := v1 + 1
       caso 2
-         votosJucelia := votosJucelia + 1
+         v2 := v2 + 1
       caso 3
-         votosJailson := votosJailson + 1
+         v3 := v3 + 1
       caso 4
-         votosAlexandre := votosAlexandre + 1
+         v4 := v4 + 1
       caso 5
-         votosNulo := votosNulo + 1
+         vn := vn + 1
       caso 6
-         votosBranco := votosBranco + 1
+         vb := vb + 1
       caso 0
          escreval
-         escreval("Encerrando leitura de votações. Tecle ENTER para prosseguir")
-         leia(ignoreMe)
+         escreval("Encerrando leitura de votações. Tecle ENTER para prosseguir") 
+         
       outrocaso
-        escreval("Código inválido! Digite um valor dentre os citados.")
-       leia(ignoreMe)
-
+        escreval("Código inválido! Digite um valor dentre os citados.") 
+        
    fimescolha
   
 ate codigo = 0
@@ -527,4 +552,55 @@ ate codigo = 0
 //Mostrar valores
 </code></pre>
 
-<p></p>
+<p> Quando o usuário finalizar todas as entradas e deseja prosseguir com o código podemos ir para o próximo passo: Processamento dos dados e cálculos matemáticos</p>
+<p> Em nosso desafio, precisaremos computar a quantidade total de votos, que é a soma de todos os votos, e a porcentagem de cada voto do total.</p>
+
+<pre><code>
+total := v1 + v2 + v3 + v4 + vb + vn
+porV1 := (v1 / total) * 100
+porV2 := (v2 / total) * 100
+porV3 := (v3 / total) * 100
+porV4 := (v4 / total) * 100
+porVn := (vn / total) * 100
+porVb := (vb / total) * 100
+</code></pre>
+
+<p> Outro detalhe importante a levar em conta é o tratamento de excessões e erros enquanto processamos os dados. </p>
+<p> Nosso desafio mostra um exemplo importantíssimo. Veja a linha abaixo e identifique o problema: </p>
+
+<code>porV1 := (v1 / total) * 100 //Cálcular porcentagem do voto 1</code>
+
+<p> O erro está presente na divisão <code> v1 / total </code> onde há a possibilidade do usuário encerrar o programa sem votar em ninguém. Assim, "v1" e "total" possuirão valores iguais a 0. </p>
+<p> Não é preocupante que "v1" seja igual a 0, porém o "total" sendo igual a 0 <b>retornará um erro de divisão por 0.</b></p>
+<p> Portanto, podemos evitar esse erro com uma simples condição.</p> 
+
+<pre><code>
+total := v1 + v2 + v3 + v4 + vb + vn
+
+se (total = 0) entao    //Nenhum voto digitado
+   escreval("O programa não foi utilizado")
+senao
+  //Mostrar resultados
+fimse
+</code></pre>
+
+<p> Finalmente, após todo e qualquer computação, podemos disponibilizar os resultados para o usuário </p>
+
+<pre><code>
+total := v1 + v2 + v3 + v4 + vb + vn
+
+se (total = 0) entao
+   escreval("O programa não foi utilizado")
+senao
+   limpatela
+   escreval("Resultados")
+   escreval
+   escreval("Candidato      | Votos | Porcentagem |")
+   escreval("Aldair         |", v1:7,"|", porV1)
+   escreval("Jucélia        |", v2:7,"|", porV2)
+   escreval("Jailson        |", v3:7,"|", porV3)
+   escreval("Alexandre      |", v4:7,"|", porV4)
+   escreval("Votos Nulo     |", vn:7,"|", porVn)
+   escreval("Votos em Branco|", vb:7,"|", porVb)
+fimse
+</code></pre>
