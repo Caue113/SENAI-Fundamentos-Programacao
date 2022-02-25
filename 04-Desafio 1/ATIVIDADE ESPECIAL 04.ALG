@@ -71,7 +71,7 @@ votosTotal := votosAldair + votosJucelia + votosJailson + votosAlexandre + votos
 
 
 
-se (nao votosTotal = 0) entao
+se (votosTotal = 0) entao
    escreval("O programa não foi utilizado")
 senao
    limpatela
