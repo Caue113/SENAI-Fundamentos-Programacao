@@ -76,12 +76,14 @@ para i de 0 ate vetorSize faca
                      //Verificar se o operador é "/" Novamente
                      se (vecOper[i] = validOper[0] ) entao
                         isDivisionBy0 := verdadeiro
+
                      senao
                         isDivisionBy0 := falso
                         
                         //Operador válido digitado
                         se (vecOper[i] = validOper[j]) entao
                            isValidOper := verdadeiro
+                           interrompa  //(Má prática meu loop nn possui controle)
                         senao //Não é nenhum operador existente
                            isValidOper := falso
                            escreval("ERRO: OPERADOR INVÁLIDO DIGITADO")
