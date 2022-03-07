@@ -8,9 +8,9 @@ Algoritmo "04-VetoresETuplasSimples"
 // Data atual  : 14/02/2022
 Var
 
-vecObjetos : vetor[0..2] de caractere  //Nome do produto
-vecValorUni: vetor[0..2] de real       //Valor unitario produto
-vecQtdVend : vetor[0..2] de inteiro    //Qtd vendida do produto
+vecObjetos : vetor[0..9] de caractere  //Nome do produto
+vecValorUni: vetor[0..9] de real       //Valor unitario produto
+vecQtdVend : vetor[0..9] de inteiro    //Qtd vendida do produto
 
 i, vecSize : inteiro                   //Auxiliares: loop
 tempVendas : real                      //Auxiliares: temp Values
@@ -24,7 +24,7 @@ porcComissao : real
 Inicio
 
 i := 0
-vecSize := 2
+vecSize := 9            //Tamanho de todos os vetores a serem usados
 porcComissao := 0.05    //5%
 
 

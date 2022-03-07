@@ -6,7 +6,7 @@ Algoritmo "07-VetorOrdenacaoDecrescente"
 // Autor(a)    : Luís Felipe Torres
 // Data atual  : 14/02/2022
 Var
-vecOrigem, vecResult : vetor[0..4] de inteiro
+vecOrigem, vecResult : vetor[0..9] de inteiro
 
 i, j,  vecSize : inteiro //Auxiliares: loop
 aux : inteiro        //Auxiliar: valor temporario
@@ -14,7 +14,7 @@ aux : inteiro        //Auxiliar: valor temporario
 Inicio
 
 i := 0          //Iterador de vecResult
-vecSize := 4    //Tamanho vecNumeros
+vecSize := 9    //Tamanho vecNumeros
 j := 0          //Reiterador de trás para frente. (MÉTODO BUBBLESORT)
                 //'j' garante que cada iteracao 'i' tenha vecSize-j ORGANIZADA.
                 //Portanto, iterando um total de (i * j) / 2 vezes
@@ -44,9 +44,9 @@ fimpara
 
 escreval
 escreval("Exibindo valores dos vetores")
-escreval("Origem | result")
+escreval("Origem | Result")
 para i de 0 ate vecSize faca
-   escreval(vecOrigem[i],",", vecResult[i])
+   escreval(vecOrigem[i]:7,"|", vecResult[i]:7)
 fimpara
 
 
