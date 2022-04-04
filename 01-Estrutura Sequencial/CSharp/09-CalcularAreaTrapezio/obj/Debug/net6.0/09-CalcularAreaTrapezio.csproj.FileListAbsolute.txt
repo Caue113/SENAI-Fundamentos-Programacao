@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\bin\Debug\net6.0\09-CalcularAreaTrapezio.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\bin\Debug\net6.0\09-CalcularAreaTrapezio.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\bin\Debug\net6.0\09-CalcularAreaTrapezio.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\bin\Debug\net6.0\09-CalcularAreaTrapezio.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\bin\Debug\net6.0\09-CalcularAreaTrapezio.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\obj\Debug\net6.0\09-CalcularAreaTrapezio.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\obj\Debug\net6.0\09-CalcularAreaTrapezio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\obj\Debug\net6.0\09-CalcularAreaTrapezio.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\obj\Debug\net6.0\09-CalcularAreaTrapezio.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\obj\Debug\net6.0\09-CalcularAreaTrapezio.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\obj\Debug\net6.0\09-CalcularAreaTrapezio.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\obj\Debug\net6.0\refint\09-CalcularAreaTrapezio.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\obj\Debug\net6.0\09-CalcularAreaTrapezio.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\obj\Debug\net6.0\09-CalcularAreaTrapezio.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\09-CalcularAreaTrapezio\obj\Debug\net6.0\ref\09-CalcularAreaTrapezio.dll

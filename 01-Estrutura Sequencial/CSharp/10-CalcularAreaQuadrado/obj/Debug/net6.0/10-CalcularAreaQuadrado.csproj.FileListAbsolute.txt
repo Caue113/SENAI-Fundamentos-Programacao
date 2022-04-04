@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\obj\Debug\net6.0\10-CalcularAreaQuadrado.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\obj\Debug\net6.0\10-CalcularAreaQuadrado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\obj\Debug\net6.0\10-CalcularAreaQuadrado.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\obj\Debug\net6.0\10-CalcularAreaQuadrado.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\obj\Debug\net6.0\10-CalcularAreaQuadrado.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\bin\Debug\net6.0\10-CalcularAreaQuadrado.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\bin\Debug\net6.0\10-CalcularAreaQuadrado.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\bin\Debug\net6.0\10-CalcularAreaQuadrado.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\bin\Debug\net6.0\10-CalcularAreaQuadrado.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\bin\Debug\net6.0\10-CalcularAreaQuadrado.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\obj\Debug\net6.0\10-CalcularAreaQuadrado.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\obj\Debug\net6.0\refint\10-CalcularAreaQuadrado.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\obj\Debug\net6.0\10-CalcularAreaQuadrado.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\obj\Debug\net6.0\10-CalcularAreaQuadrado.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\10-CalcularAreaQuadrado\obj\Debug\net6.0\ref\10-CalcularAreaQuadrado.dll

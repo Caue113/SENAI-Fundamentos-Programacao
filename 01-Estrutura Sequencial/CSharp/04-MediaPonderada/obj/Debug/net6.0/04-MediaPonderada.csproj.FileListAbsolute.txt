@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\bin\Debug\net6.0\04-MediaPonderada.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\bin\Debug\net6.0\04-MediaPonderada.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\bin\Debug\net6.0\04-MediaPonderada.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\bin\Debug\net6.0\04-MediaPonderada.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\bin\Debug\net6.0\04-MediaPonderada.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\obj\Debug\net6.0\04-MediaPonderada.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\obj\Debug\net6.0\04-MediaPonderada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\obj\Debug\net6.0\04-MediaPonderada.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\obj\Debug\net6.0\04-MediaPonderada.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\obj\Debug\net6.0\04-MediaPonderada.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\obj\Debug\net6.0\04-MediaPonderada.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\obj\Debug\net6.0\refint\04-MediaPonderada.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\obj\Debug\net6.0\04-MediaPonderada.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\obj\Debug\net6.0\04-MediaPonderada.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\04-MediaPonderada\obj\Debug\net6.0\ref\04-MediaPonderada.dll

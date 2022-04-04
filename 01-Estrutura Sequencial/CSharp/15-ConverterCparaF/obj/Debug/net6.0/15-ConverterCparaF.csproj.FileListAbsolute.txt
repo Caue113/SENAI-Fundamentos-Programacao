@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\obj\Debug\net6.0\15-ConverterCparaF.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\obj\Debug\net6.0\15-ConverterCparaF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\obj\Debug\net6.0\15-ConverterCparaF.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\obj\Debug\net6.0\15-ConverterCparaF.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\obj\Debug\net6.0\15-ConverterCparaF.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\bin\Debug\net6.0\15-ConverterCparaF.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\bin\Debug\net6.0\15-ConverterCparaF.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\bin\Debug\net6.0\15-ConverterCparaF.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\bin\Debug\net6.0\15-ConverterCparaF.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\bin\Debug\net6.0\15-ConverterCparaF.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\obj\Debug\net6.0\15-ConverterCparaF.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\obj\Debug\net6.0\refint\15-ConverterCparaF.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\obj\Debug\net6.0\15-ConverterCparaF.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\obj\Debug\net6.0\15-ConverterCparaF.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\15-ConverterCparaF\obj\Debug\net6.0\ref\15-ConverterCparaF.dll

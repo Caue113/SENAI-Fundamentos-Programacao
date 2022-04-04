@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\bin\Debug\net6.0\12-CalcularQtdSalariosMinimos.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\bin\Debug\net6.0\12-CalcularQtdSalariosMinimos.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\bin\Debug\net6.0\12-CalcularQtdSalariosMinimos.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\bin\Debug\net6.0\12-CalcularQtdSalariosMinimos.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\bin\Debug\net6.0\12-CalcularQtdSalariosMinimos.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\obj\Debug\net6.0\12-CalcularQtdSalariosMinimos.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\obj\Debug\net6.0\12-CalcularQtdSalariosMinimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\obj\Debug\net6.0\12-CalcularQtdSalariosMinimos.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\obj\Debug\net6.0\12-CalcularQtdSalariosMinimos.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\obj\Debug\net6.0\12-CalcularQtdSalariosMinimos.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\obj\Debug\net6.0\12-CalcularQtdSalariosMinimos.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\obj\Debug\net6.0\refint\12-CalcularQtdSalariosMinimos.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\obj\Debug\net6.0\12-CalcularQtdSalariosMinimos.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\obj\Debug\net6.0\12-CalcularQtdSalariosMinimos.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\12-CalcularQtdSalariosMinimos\obj\Debug\net6.0\ref\12-CalcularQtdSalariosMinimos.dll

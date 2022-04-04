@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\bin\Debug\net6.0\14-ConversorIdade.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\bin\Debug\net6.0\14-ConversorIdade.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\bin\Debug\net6.0\14-ConversorIdade.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\bin\Debug\net6.0\14-ConversorIdade.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\bin\Debug\net6.0\14-ConversorIdade.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\obj\Debug\net6.0\14-ConversorIdade.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\obj\Debug\net6.0\14-ConversorIdade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\obj\Debug\net6.0\14-ConversorIdade.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\obj\Debug\net6.0\14-ConversorIdade.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\obj\Debug\net6.0\14-ConversorIdade.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\obj\Debug\net6.0\14-ConversorIdade.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\obj\Debug\net6.0\refint\14-ConversorIdade.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\obj\Debug\net6.0\14-ConversorIdade.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\obj\Debug\net6.0\14-ConversorIdade.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\14-ConversorIdade\obj\Debug\net6.0\ref\14-ConversorIdade.dll

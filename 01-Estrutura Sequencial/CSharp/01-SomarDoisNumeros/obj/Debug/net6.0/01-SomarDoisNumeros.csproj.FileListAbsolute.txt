@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\bin\Debug\net6.0\01-SomarDoisNumeros.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\bin\Debug\net6.0\01-SomarDoisNumeros.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\bin\Debug\net6.0\01-SomarDoisNumeros.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\bin\Debug\net6.0\01-SomarDoisNumeros.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\bin\Debug\net6.0\01-SomarDoisNumeros.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\obj\Debug\net6.0\01-SomarDoisNumeros.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\obj\Debug\net6.0\01-SomarDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\obj\Debug\net6.0\01-SomarDoisNumeros.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\obj\Debug\net6.0\01-SomarDoisNumeros.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\obj\Debug\net6.0\01-SomarDoisNumeros.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\obj\Debug\net6.0\01-SomarDoisNumeros.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\obj\Debug\net6.0\refint\01-SomarDoisNumeros.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\obj\Debug\net6.0\01-SomarDoisNumeros.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\obj\Debug\net6.0\01-SomarDoisNumeros.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\01-SomarDoisNumeros\obj\Debug\net6.0\ref\01-SomarDoisNumeros.dll

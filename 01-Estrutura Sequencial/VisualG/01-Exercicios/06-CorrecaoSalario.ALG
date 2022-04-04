@@ -1,7 +1,7 @@
 Algoritmo "Praticas - Estruturas Sequenciais 6"
-// Disciplina  : Informática Aplicada 
+// Disciplina  : Informï¿½tica Aplicada 
 // Professor   : Thiago 
-// Descrição   : Calcular correção de salário de funcionario por comissao de venda
+// Descriï¿½ï¿½o   : Calcular correï¿½ï¿½o de salï¿½rio de funcionario por comissao de venda
 // Autor(a)    :
 // Data atual  : 05/02/2022
 Var
@@ -9,12 +9,12 @@ Var
    valorVenda, comissao : real
 
 Inicio
-   //O exercício não inclui correção de entrada para valores negativos
+   //O exercï¿½cio nï¿½o inclui correï¿½ï¿½o de entrada para valores negativos
 
-   escreval("Programa: Calcular desconto sob produto")
+   escreval("Programa: Calcular comissao e novo salario com ela")
    escreval()
    
-   escreva("Digite o seu salário: ")
+   escreva("Digite o seu salï¿½rio: ")
    leia(salario)
    escreva("Digite o valor final de suas vendas: ")
    leia(valorVenda)

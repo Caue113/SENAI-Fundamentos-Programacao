@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\bin\Debug\net6.0\07-CalcularPeso.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\bin\Debug\net6.0\07-CalcularPeso.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\bin\Debug\net6.0\07-CalcularPeso.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\bin\Debug\net6.0\07-CalcularPeso.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\bin\Debug\net6.0\07-CalcularPeso.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\obj\Debug\net6.0\07-CalcularPeso.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\obj\Debug\net6.0\07-CalcularPeso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\obj\Debug\net6.0\07-CalcularPeso.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\obj\Debug\net6.0\07-CalcularPeso.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\obj\Debug\net6.0\07-CalcularPeso.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\obj\Debug\net6.0\07-CalcularPeso.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\obj\Debug\net6.0\refint\07-CalcularPeso.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\obj\Debug\net6.0\07-CalcularPeso.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\obj\Debug\net6.0\07-CalcularPeso.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\07-CalcularPeso\obj\Debug\net6.0\ref\07-CalcularPeso.dll

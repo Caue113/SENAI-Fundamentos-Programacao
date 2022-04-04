@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\obj\Debug\net6.0\05-DescontoSobreProduto.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\obj\Debug\net6.0\05-DescontoSobreProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\obj\Debug\net6.0\05-DescontoSobreProduto.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\obj\Debug\net6.0\05-DescontoSobreProduto.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\obj\Debug\net6.0\05-DescontoSobreProduto.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\bin\Debug\net6.0\05-DescontoSobreProduto.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\bin\Debug\net6.0\05-DescontoSobreProduto.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\bin\Debug\net6.0\05-DescontoSobreProduto.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\bin\Debug\net6.0\05-DescontoSobreProduto.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\bin\Debug\net6.0\05-DescontoSobreProduto.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\obj\Debug\net6.0\05-DescontoSobreProduto.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\obj\Debug\net6.0\refint\05-DescontoSobreProduto.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\obj\Debug\net6.0\05-DescontoSobreProduto.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\obj\Debug\net6.0\05-DescontoSobreProduto.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\05-DescontoSobreProduto\obj\Debug\net6.0\ref\05-DescontoSobreProduto.dll

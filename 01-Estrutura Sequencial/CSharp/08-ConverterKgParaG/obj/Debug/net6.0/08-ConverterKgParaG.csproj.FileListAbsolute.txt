@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\bin\Debug\net6.0\08-ConverterKgParaG.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\bin\Debug\net6.0\08-ConverterKgParaG.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\bin\Debug\net6.0\08-ConverterKgParaG.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\bin\Debug\net6.0\08-ConverterKgParaG.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\bin\Debug\net6.0\08-ConverterKgParaG.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\obj\Debug\net6.0\08-ConverterKgParaG.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\obj\Debug\net6.0\08-ConverterKgParaG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\obj\Debug\net6.0\08-ConverterKgParaG.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\obj\Debug\net6.0\08-ConverterKgParaG.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\obj\Debug\net6.0\08-ConverterKgParaG.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\obj\Debug\net6.0\08-ConverterKgParaG.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\obj\Debug\net6.0\refint\08-ConverterKgParaG.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\obj\Debug\net6.0\08-ConverterKgParaG.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\obj\Debug\net6.0\08-ConverterKgParaG.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\08-ConverterKgParaG\obj\Debug\net6.0\ref\08-ConverterKgParaG.dll

@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\bin\Debug\net6.0\02-MultiplicarTresNumeros.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\bin\Debug\net6.0\02-MultiplicarTresNumeros.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\bin\Debug\net6.0\02-MultiplicarTresNumeros.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\bin\Debug\net6.0\02-MultiplicarTresNumeros.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\bin\Debug\net6.0\02-MultiplicarTresNumeros.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\obj\Debug\net6.0\02-MultiplicarTresNumeros.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\obj\Debug\net6.0\02-MultiplicarTresNumeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\obj\Debug\net6.0\02-MultiplicarTresNumeros.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\obj\Debug\net6.0\02-MultiplicarTresNumeros.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\obj\Debug\net6.0\02-MultiplicarTresNumeros.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\obj\Debug\net6.0\02-MultiplicarTresNumeros.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\obj\Debug\net6.0\refint\02-MultiplicarTresNumeros.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\obj\Debug\net6.0\02-MultiplicarTresNumeros.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\obj\Debug\net6.0\02-MultiplicarTresNumeros.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\02-MultiplicarTresNumeros\obj\Debug\net6.0\ref\02-MultiplicarTresNumeros.dll

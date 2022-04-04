@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\bin\Debug\net6.0\17-ConversorECotacao.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\bin\Debug\net6.0\17-ConversorECotacao.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\bin\Debug\net6.0\17-ConversorECotacao.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\bin\Debug\net6.0\17-ConversorECotacao.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\bin\Debug\net6.0\17-ConversorECotacao.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\obj\Debug\net6.0\17-ConversorECotacao.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\obj\Debug\net6.0\17-ConversorECotacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\obj\Debug\net6.0\17-ConversorECotacao.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\obj\Debug\net6.0\17-ConversorECotacao.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\obj\Debug\net6.0\17-ConversorECotacao.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\obj\Debug\net6.0\17-ConversorECotacao.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\obj\Debug\net6.0\refint\17-ConversorECotacao.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\obj\Debug\net6.0\17-ConversorECotacao.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\obj\Debug\net6.0\17-ConversorECotacao.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\17-ConversorECotacao\obj\Debug\net6.0\ref\17-ConversorECotacao.dll

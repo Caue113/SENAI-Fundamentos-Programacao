@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\bin\Debug\net6.0\16-ContasEJuros.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\bin\Debug\net6.0\16-ContasEJuros.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\bin\Debug\net6.0\16-ContasEJuros.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\bin\Debug\net6.0\16-ContasEJuros.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\bin\Debug\net6.0\16-ContasEJuros.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\obj\Debug\net6.0\16-ContasEJuros.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\obj\Debug\net6.0\16-ContasEJuros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\obj\Debug\net6.0\16-ContasEJuros.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\obj\Debug\net6.0\16-ContasEJuros.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\obj\Debug\net6.0\16-ContasEJuros.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\obj\Debug\net6.0\16-ContasEJuros.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\obj\Debug\net6.0\refint\16-ContasEJuros.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\obj\Debug\net6.0\16-ContasEJuros.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\obj\Debug\net6.0\16-ContasEJuros.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\16-ContasEJuros\obj\Debug\net6.0\ref\16-ContasEJuros.dll

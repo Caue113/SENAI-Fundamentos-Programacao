@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\bin\Debug\net6.0\11-CalcularAreaLosango.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\bin\Debug\net6.0\11-CalcularAreaLosango.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\bin\Debug\net6.0\11-CalcularAreaLosango.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\bin\Debug\net6.0\11-CalcularAreaLosango.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\bin\Debug\net6.0\11-CalcularAreaLosango.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\obj\Debug\net6.0\11-CalcularAreaLosango.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\obj\Debug\net6.0\11-CalcularAreaLosango.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\obj\Debug\net6.0\11-CalcularAreaLosango.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\obj\Debug\net6.0\11-CalcularAreaLosango.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\obj\Debug\net6.0\11-CalcularAreaLosango.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\obj\Debug\net6.0\11-CalcularAreaLosango.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\obj\Debug\net6.0\refint\11-CalcularAreaLosango.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\obj\Debug\net6.0\11-CalcularAreaLosango.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\obj\Debug\net6.0\11-CalcularAreaLosango.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\01-Estrutura Sequencial\CSharp\11-CalcularAreaLosango\obj\Debug\net6.0\ref\11-CalcularAreaLosango.dll
