@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\bin\Debug\net6.0\05-VerificarNumeroPar.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\bin\Debug\net6.0\05-VerificarNumeroPar.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\bin\Debug\net6.0\05-VerificarNumeroPar.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\bin\Debug\net6.0\05-VerificarNumeroPar.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\bin\Debug\net6.0\05-VerificarNumeroPar.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\obj\Debug\net6.0\05-VerificarNumeroPar.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\obj\Debug\net6.0\05-VerificarNumeroPar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\obj\Debug\net6.0\05-VerificarNumeroPar.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\obj\Debug\net6.0\05-VerificarNumeroPar.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\obj\Debug\net6.0\05-VerificarNumeroPar.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\obj\Debug\net6.0\05-VerificarNumeroPar.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\obj\Debug\net6.0\refint\05-VerificarNumeroPar.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\obj\Debug\net6.0\05-VerificarNumeroPar.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\obj\Debug\net6.0\05-VerificarNumeroPar.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\05-VerificarNumeroPar\obj\Debug\net6.0\ref\05-VerificarNumeroPar.dll

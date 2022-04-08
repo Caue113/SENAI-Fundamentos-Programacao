@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\obj\Debug\net6.0\02-SolicitarDadosUsuario.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\obj\Debug\net6.0\02-SolicitarDadosUsuario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\obj\Debug\net6.0\02-SolicitarDadosUsuario.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\obj\Debug\net6.0\02-SolicitarDadosUsuario.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\obj\Debug\net6.0\02-SolicitarDadosUsuario.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\bin\Debug\net6.0\02-SolicitarDadosUsuario.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\bin\Debug\net6.0\02-SolicitarDadosUsuario.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\bin\Debug\net6.0\02-SolicitarDadosUsuario.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\bin\Debug\net6.0\02-SolicitarDadosUsuario.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\bin\Debug\net6.0\02-SolicitarDadosUsuario.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\obj\Debug\net6.0\02-SolicitarDadosUsuario.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\obj\Debug\net6.0\refint\02-SolicitarDadosUsuario.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\obj\Debug\net6.0\02-SolicitarDadosUsuario.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\obj\Debug\net6.0\02-SolicitarDadosUsuario.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\02-SolicitarDadosUsuario\obj\Debug\net6.0\ref\02-SolicitarDadosUsuario.dll

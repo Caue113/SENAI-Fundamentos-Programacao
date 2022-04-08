@@ -1,0 +1,15 @@
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\obj\Debug\net6.0\04-NumerosPositivosOuNegativos.csproj.AssemblyReference.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\obj\Debug\net6.0\04-NumerosPositivosOuNegativos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\obj\Debug\net6.0\04-NumerosPositivosOuNegativos.AssemblyInfoInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\obj\Debug\net6.0\04-NumerosPositivosOuNegativos.AssemblyInfo.cs
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\obj\Debug\net6.0\04-NumerosPositivosOuNegativos.csproj.CoreCompileInputs.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\bin\Debug\net6.0\04-NumerosPositivosOuNegativos.exe
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\bin\Debug\net6.0\04-NumerosPositivosOuNegativos.deps.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\bin\Debug\net6.0\04-NumerosPositivosOuNegativos.runtimeconfig.json
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\bin\Debug\net6.0\04-NumerosPositivosOuNegativos.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\bin\Debug\net6.0\04-NumerosPositivosOuNegativos.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\obj\Debug\net6.0\04-NumerosPositivosOuNegativos.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\obj\Debug\net6.0\refint\04-NumerosPositivosOuNegativos.dll
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\obj\Debug\net6.0\04-NumerosPositivosOuNegativos.pdb
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\obj\Debug\net6.0\04-NumerosPositivosOuNegativos.genruntimeconfig.cache
+D:\Lfts\GitHub\SENAI-Fundamentos-Programacao\02-Estruturas Condicionais\CSharp\04-NumerosPositivosOuNegativos\obj\Debug\net6.0\ref\04-NumerosPositivosOuNegativos.dll
