@@ -1,0 +1,16 @@
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\bin\Debug\net5.0\01-CalcularSomatorio.exe
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\bin\Debug\net5.0\01-CalcularSomatorio.deps.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\bin\Debug\net5.0\01-CalcularSomatorio.runtimeconfig.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\bin\Debug\net5.0\01-CalcularSomatorio.runtimeconfig.dev.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\bin\Debug\net5.0\01-CalcularSomatorio.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\bin\Debug\net5.0\ref\01-CalcularSomatorio.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\bin\Debug\net5.0\01-CalcularSomatorio.pdb
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\obj\Debug\net5.0\01-CalcularSomatorio.csproj.AssemblyReference.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\obj\Debug\net5.0\01-CalcularSomatorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\obj\Debug\net5.0\01-CalcularSomatorio.AssemblyInfoInputs.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\obj\Debug\net5.0\01-CalcularSomatorio.AssemblyInfo.cs
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\obj\Debug\net5.0\01-CalcularSomatorio.csproj.CoreCompileInputs.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\obj\Debug\net5.0\01-CalcularSomatorio.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\obj\Debug\net5.0\ref\01-CalcularSomatorio.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\obj\Debug\net5.0\01-CalcularSomatorio.pdb
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\01-CalcularSomatorio\obj\Debug\net5.0\01-CalcularSomatorio.genruntimeconfig.cache

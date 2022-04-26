@@ -1,0 +1,16 @@
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\obj\Debug\net5.0\03-CalcularFibonnaci.csproj.AssemblyReference.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\obj\Debug\net5.0\03-CalcularFibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\obj\Debug\net5.0\03-CalcularFibonnaci.AssemblyInfoInputs.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\obj\Debug\net5.0\03-CalcularFibonnaci.AssemblyInfo.cs
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\obj\Debug\net5.0\03-CalcularFibonnaci.csproj.CoreCompileInputs.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\bin\Debug\net5.0\03-CalcularFibonnaci.exe
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\bin\Debug\net5.0\03-CalcularFibonnaci.deps.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\bin\Debug\net5.0\03-CalcularFibonnaci.runtimeconfig.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\bin\Debug\net5.0\03-CalcularFibonnaci.runtimeconfig.dev.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\bin\Debug\net5.0\03-CalcularFibonnaci.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\bin\Debug\net5.0\ref\03-CalcularFibonnaci.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\bin\Debug\net5.0\03-CalcularFibonnaci.pdb
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\obj\Debug\net5.0\03-CalcularFibonnaci.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\obj\Debug\net5.0\ref\03-CalcularFibonnaci.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\obj\Debug\net5.0\03-CalcularFibonnaci.pdb
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\03-CalcularFibonnaci\obj\Debug\net5.0\03-CalcularFibonnaci.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\bin\Debug\net5.0\02-CalcularFatorial.exe
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\bin\Debug\net5.0\02-CalcularFatorial.deps.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\bin\Debug\net5.0\02-CalcularFatorial.runtimeconfig.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\bin\Debug\net5.0\02-CalcularFatorial.runtimeconfig.dev.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\bin\Debug\net5.0\02-CalcularFatorial.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\bin\Debug\net5.0\ref\02-CalcularFatorial.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\bin\Debug\net5.0\02-CalcularFatorial.pdb
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\obj\Debug\net5.0\02-CalcularFatorial.csproj.AssemblyReference.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\obj\Debug\net5.0\02-CalcularFatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\obj\Debug\net5.0\02-CalcularFatorial.AssemblyInfoInputs.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\obj\Debug\net5.0\02-CalcularFatorial.AssemblyInfo.cs
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\obj\Debug\net5.0\02-CalcularFatorial.csproj.CoreCompileInputs.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\obj\Debug\net5.0\02-CalcularFatorial.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\obj\Debug\net5.0\ref\02-CalcularFatorial.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\obj\Debug\net5.0\02-CalcularFatorial.pdb
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\02-CalcularFatorial\obj\Debug\net5.0\02-CalcularFatorial.genruntimeconfig.cache

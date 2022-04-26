@@ -1,0 +1,16 @@
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\bin\Debug\net5.0\Tabuada-Para.exe
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\bin\Debug\net5.0\Tabuada-Para.deps.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\bin\Debug\net5.0\Tabuada-Para.runtimeconfig.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\bin\Debug\net5.0\Tabuada-Para.runtimeconfig.dev.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\bin\Debug\net5.0\Tabuada-Para.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\bin\Debug\net5.0\ref\Tabuada-Para.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\bin\Debug\net5.0\Tabuada-Para.pdb
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\obj\Debug\net5.0\Tabuada-Para.csproj.AssemblyReference.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\obj\Debug\net5.0\Tabuada-Para.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\obj\Debug\net5.0\Tabuada-Para.AssemblyInfoInputs.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\obj\Debug\net5.0\Tabuada-Para.AssemblyInfo.cs
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\obj\Debug\net5.0\Tabuada-Para.csproj.CoreCompileInputs.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\obj\Debug\net5.0\Tabuada-Para.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\obj\Debug\net5.0\ref\Tabuada-Para.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\obj\Debug\net5.0\Tabuada-Para.pdb
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\01-Exemplos\Tabuada-Para\obj\Debug\net5.0\Tabuada-Para.genruntimeconfig.cache

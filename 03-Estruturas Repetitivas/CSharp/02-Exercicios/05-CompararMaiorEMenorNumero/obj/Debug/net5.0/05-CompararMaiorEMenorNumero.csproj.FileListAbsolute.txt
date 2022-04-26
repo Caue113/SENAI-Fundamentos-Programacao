@@ -1,0 +1,16 @@
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\bin\Debug\net5.0\05-CompararMaiorEMenorNumero.exe
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\bin\Debug\net5.0\05-CompararMaiorEMenorNumero.deps.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\bin\Debug\net5.0\05-CompararMaiorEMenorNumero.runtimeconfig.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\bin\Debug\net5.0\05-CompararMaiorEMenorNumero.runtimeconfig.dev.json
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\bin\Debug\net5.0\05-CompararMaiorEMenorNumero.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\bin\Debug\net5.0\ref\05-CompararMaiorEMenorNumero.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\bin\Debug\net5.0\05-CompararMaiorEMenorNumero.pdb
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\obj\Debug\net5.0\05-CompararMaiorEMenorNumero.csproj.AssemblyReference.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\obj\Debug\net5.0\05-CompararMaiorEMenorNumero.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\obj\Debug\net5.0\05-CompararMaiorEMenorNumero.AssemblyInfoInputs.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\obj\Debug\net5.0\05-CompararMaiorEMenorNumero.AssemblyInfo.cs
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\obj\Debug\net5.0\05-CompararMaiorEMenorNumero.csproj.CoreCompileInputs.cache
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\obj\Debug\net5.0\05-CompararMaiorEMenorNumero.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\obj\Debug\net5.0\ref\05-CompararMaiorEMenorNumero.dll
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\obj\Debug\net5.0\05-CompararMaiorEMenorNumero.pdb
+D:\GameDevUniube\Senai\Github\SENAI-Fundamentos-Programacao\03-Estruturas Repetitivas\CSharp\02-Exercicios\05-CompararMaiorEMenorNumero\obj\Debug\net5.0\05-CompararMaiorEMenorNumero.genruntimeconfig.cache
